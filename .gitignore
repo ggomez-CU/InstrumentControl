@@ -1,0 +1,13 @@
+/venv
+/test/__pycache__
+/src/instrumentcontrol.egg-info
+/src/focustuner/__pycache__
+/.vscode
+/build
+/dist
+/focustuner.egg-info
+/loadtuner.egg-info
+/.eggs
+/.pytest_cache
+/focustuner/__pycache__
+src/focustuner/__pycache__/Tuner.cpython-311.pyc
